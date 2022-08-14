@@ -1,0 +1,61 @@
+.main {
+    background: url(../img4.jpg);
+    width: 958px;
+    height: 640px;
+    margin-left: 250px;
+    display: flex;
+}
+
+
+.block1 {
+    padding-left:130px ;
+    padding-top: 295px;
+    width: 300px;
+
+}
+
+.header {
+    font-family: "Inconsolata";
+    font-size: 30px;
+    color: #BEB8BC;
+    padding-left: 30px;
+
+}
+
+.comands_item {
+    font-family: "Inconsolata";
+    font-size: 17px;
+    line-height: 17px;
+}
+
+.sign_1, .sign_2, .sign_3, .sign_4, .sign_5 {
+    font-family: "Josefin Sans";
+    font-size: 17px;
+    color: #AC5B50;
+    
+}
+
+.sign_2, .sign_4 {
+    padding-right: 6px;
+}
+.sign_5 {
+    padding-right: 8px;
+}
+
+.item {
+    color: #DDDDDD;
+}
+
+.block2 {
+    padding-left: 10px;
+    padding-top: 30px;
+}
+
+.additional_comands {
+    width: 490px;
+    font-family: "Inconsolata";
+    font-size: 15px;
+    font-style: italic;
+    color: #d5d2d4;
+    text-align: center;
+};

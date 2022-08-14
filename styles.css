@@ -1,8 +1,16 @@
-.main {
-    background: url(../img4.jpg);
-    width: 958px;
-    height: 640px;
-    margin-left: 250px;
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 958px;
+    min-height: 640px;
+}
+
+.wrapper {
+    background: url(../background.jpg);
+    background-repeat: no-repeat;
+    margin: auto;
     display: flex;
 }
 
